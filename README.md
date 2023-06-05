@@ -3,4 +3,4 @@
 
 ***on project directory run:***
 _npx expo install_
-***npx expo start
+***npx expo start***
