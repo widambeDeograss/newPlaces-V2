@@ -1,5 +1,5 @@
 # newPlaces-V2
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/widambeDeograss/newPlaces-V2/blob/master/assets/bso.jpeg?raw=true)
 
 #on project directory run:
 #npx expo install
